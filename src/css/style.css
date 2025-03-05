@@ -80,12 +80,12 @@ p span:before {
 
 @keyframes gerak {
     0% {
-        content: ' Final Exception';
+        content: ' Sempre Lembre disso';
     }
     50% {
-        content: ' Não de flores, peça logo em casamento';
+        content: ' Parece simples mas não é';
     }
     100% {
-        content: ' Já deixo as estelas em meu GitHub??';
+        content: ' Eu te amo Anita!';
     }
 }
